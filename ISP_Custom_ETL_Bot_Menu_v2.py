@@ -4,7 +4,7 @@ import os
 #import requests as rq from bs4 import BeautifulSoup
 import subprocess
 
-token = '936440450:AAEBVP0m7KBwngSSL5DEjFjuyAghqZo4MQU'
+token = 'insertyourtoken'
 bot = telepot.Bot(token)
 
 InfoMsg = '메뉴를 선택하세요\n'\
